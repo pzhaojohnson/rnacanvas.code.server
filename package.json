@@ -1,6 +1,6 @@
 {
   "name": "@rnacanvas/code.server",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "description": "The web server for the RNAcanvas Code app",
   "main": "index.js",
   "scripts": {
